@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-suspension---primary.py
+inputModule3:
+  class: File
+  path: python/lustral-selective-serotonin-reuptake-inhibitor-ssri-adds---primary.py
+inputModule4:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-escitalopram---primary.py
+inputModule5:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-paroxetine---primary.py
+inputModule6:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-prozac---primary.py
+inputModule7:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-solution---primary.py
+inputModule8:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-fluoxetine---primary.py
+inputModule9:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-sugar---primary.py
+inputModule10:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-sertraline---primary.py
+inputModule11:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-capsule---primary.py
+inputModule12:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-cipramil---primary.py
+inputModule13:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-100mg---primary.py
+inputModule14:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-seroxat---primary.py
+inputModule15:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-liquid---primary.py
+inputModule16:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-fluvoxamine---primary.py
+inputModule17:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-cipralex---primary.py
+inputModule18:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-paxoran---primary.py
+inputModule19:
+  class: File
+  path: python/selective-serotonin-reuptake-inhibitor-ssri-adds-faverin---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
